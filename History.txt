@@ -1,0 +1,26 @@
+history
+pwd
+pwd
+cd ..
+pwd
+cd ..
+pwd
+cd ~
+pwd
+cd /
+pwd
+pwd -P
+pwd --help
+exit
+exit
+echo -n
+echo
+echo -P
+echo -n
+echo
+echo
+echo -n
+echo it is a rainy day
+echo -n it is a rainy day
+echo operating systems
+echo -n it is sunny
